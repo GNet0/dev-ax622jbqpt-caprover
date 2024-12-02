@@ -1,23 +1,23 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+id: dev-Ax622jBQPt-caprover
+name: DevCapRover
+tagline: Dev CapRover Tag Line
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
-port: 4000
+port: 443
 description: >-
   Add your app's description here.
 
 
   You can also add newlines!
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: Mooo
+website: https://captain.caprover.rapidhost.pro
+submitter: Mooo
+submission: https://github.dev/GNet0/dev-Ax622jBQPt-caprover
+repo: https://github.dev/GNet0/dev-Ax622jBQPt-caprover
+support: https://github.dev/GNet0/dev-Ax622jBQPt-caprover/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
@@ -27,4 +27,4 @@ releaseNotes: >-
 dependencies: []
 path: ""
 defaultUsername: ""
-defaultPassword: ""
+defaultPassword: "7xEhHn7F7R5C6SQW"
